@@ -1,1 +1,2 @@
-# ProjectTesting
+Jan Polách
+Karel Pavloň
